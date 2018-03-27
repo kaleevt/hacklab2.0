@@ -15,11 +15,14 @@ b.mousePressed(chatBot); //when button pressed run the chatbot function
 
 bot = new RiveScript();
 bot.loadFile("./brain.rive",botReady,botError); //2 functions
-
-talk.speak("Hello, you are talking to your mum"); //say something to begin
+//talk.speak("Hello, you are talking to your mum"); //say something to begin
 listen.continuous = true; //constant listen
 listen.onResult = showResult;
+
 listen.start();
+talk.listVoices();
+    talk.setVoice("Princess");
+
 }
 
 function botReady(){
