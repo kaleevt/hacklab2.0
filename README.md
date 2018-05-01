@@ -8,7 +8,7 @@ Codes for some of the workshops can be found on my wordpress page (http://dmvm.c
 
 
 SPECIAL THANKS FOR CONTRIBUTING TO THE PROJECT TO :  
-  NATHAN PUGSLEY 
-  CHARLES MUGISHA
-  JACK BOYLE
-  MATTHEW COOK 
+  NATHAN PUGSLEY ;
+  CHARLES MUGISHA ;
+  JACK BOYLE ;
+  MATTHEW COOK ;
